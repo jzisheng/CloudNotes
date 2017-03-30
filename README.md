@@ -9,13 +9,11 @@ Supports Android, iOS, and Web
 # Images
 Android application:
 
-.imgContainer{
-    float:left;
-}
-
+<table style="width:100%">
 <td>
-<tr>
-<th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
-<th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
-</tr>
+    <tr>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
+    </tr>
 </td>
+</table>
