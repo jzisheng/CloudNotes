@@ -9,4 +9,4 @@ Supports Android, iOS, and Web
 # Images
 Android application:
 ![alt tag](https://github.com/jzisheng/ButtNotes/blob/master/android1.png)
-![alt tag](https://github.com/jzisheng/ButtNotes/blob/master/android2.png)
+
