@@ -9,5 +9,5 @@ Supports Android, iOS, and Web
 # Images
 Android application:
 
-![alt tag](https://github.com/jzisheng/CloudNotes/blob/master/android1.png =250x)
+<img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250">
 
