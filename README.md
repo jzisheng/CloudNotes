@@ -1,4 +1,4 @@
-# Butt Notes
+# Cloud Notes
 A quick and easy cross-platform note taking app
 Tired of having to use social integration, and just want a application that stores notes online with just a username and password? Buttnotes is for you
 
@@ -8,5 +8,6 @@ Supports Android, iOS, and Web
 
 # Images
 Android application:
-![alt tag](https://github.com/jzisheng/ButtNotes/blob/master/android1.png)
+
+![alt tag](https://github.com/jzisheng/CloudNotes/blob/master/android1.png)
 
