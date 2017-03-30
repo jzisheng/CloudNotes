@@ -9,11 +9,12 @@ Supports Android, iOS, and Web
 # Images
 Android application:
 
-<table style="width:100%">
+<table style="width:900%">
 <td>
     <tr>
-    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
-    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="250"></th>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="240"></th>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android2.png" width="240"></th>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android3.png" width="240"></th>
     </tr>
 </td>
 </table>
