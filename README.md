@@ -13,8 +13,8 @@ Android application:
 <td>
     <tr>
     <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android1.png" width="240"></th>
-    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android2.png" width="240"></th>
     <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android3.png" width="240"></th>
+    <th><img src="https://github.com/jzisheng/CloudNotes/blob/master/android2.png" width="240"></th>
     </tr>
 </td>
 </table>
