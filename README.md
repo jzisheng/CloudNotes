@@ -2,7 +2,10 @@
 A quick and easy cross-platform note taking app
 Tired of having to use social integration, and want an application that stores notes online with just a username and password? Cloud Notes is for you
 
+*Note that you need to create a account on mobile before you can access the web application
+
 Uses Parse Serve backend for storing notes and user authentication
+
 
 Supports Android, iOS, and Web
 
