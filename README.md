@@ -1,6 +1,5 @@
 # Cloud Notes
-A quick and easy cross-platform note taking app
-Tired of having to use social integration, and want an application that stores notes online with just a username and password? Cloud Notes is for you
+A quick and easy cross-platform note taking app that doesn't require social integration - all you need is a username and password to get started
 
 *Note that you need to create a account on mobile before you can access the web application
 
