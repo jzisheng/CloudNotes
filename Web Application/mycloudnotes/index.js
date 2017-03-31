@@ -1,0 +1,2 @@
+myname = "Joe";
+alert(myname);
