@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cloud Notes</string>
+    <string name="action_save">Save</string>
+    <string name="add_note">Add Note</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login_registration">LoginRegistration</string>
+    <string name="activity_login_button">Login</string>
+    <string name="activity_register_button">Register</string>
+    <string name="activity_login_need_account">Need an account?</string>
+    <string name="activity_login_already_have_account">Already have an account?</string>
+    <string name="activity_signup_success">Signed up, return to login page to login!</string>
+    <string name="delete_message">Are you sure you want to delete this?</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="logout">Logout</string>
+</resources>
