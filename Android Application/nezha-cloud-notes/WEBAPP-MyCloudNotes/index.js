@@ -1,2 +1,0 @@
-myname = "Joe";
-alert(myname);
