@@ -10,3 +10,7 @@
 #endif
 #endif
 
+
+FOUNDATION_EXPORT double Pods_Cloud_NotesVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_Cloud_NotesVersionString[];
+
