@@ -10,6 +10,8 @@
 		2E7461BECF0EAAB4872D6B9C /* Pods_MyCloudNotes.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D30052E7AF4736C698F2CF83 /* Pods_MyCloudNotes.framework */; };
 		3ED481082E36F5FD6D89B4A2 /* Pods_MyCloudNotesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A020F774D225B6818BB1449 /* Pods_MyCloudNotesTests.framework */; };
 		409F1572E0BEC9B5323A93E3 /* Pods_MyCloudNotesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5ABC7C5E522241DAD60045B3 /* Pods_MyCloudNotesUITests.framework */; };
+		457D8DE7E84A6C2053F55AE1 /* Pods_Cloud_Notes.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0201F04171D29731FD0E0448 /* Pods_Cloud_Notes.framework */; };
+		99872607F308D7998EB1A87C /* Pods_Cloud_NotesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A35F1576BA5E3F9E7DBB044 /* Pods_Cloud_NotesUITests.framework */; };
 		9E09CB511E1BE497005E63DC /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E09CB501E1BE497005E63DC /* LoginPage.swift */; };
 		9E31372F1E226D3D00B225E9 /* NotesTableViewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31372E1E226D3D00B225E9 /* NotesTableViewPage.swift */; };
 		9E3137311E22731700B225E9 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3137301E22731700B225E9 /* Note.swift */; };
@@ -22,6 +24,7 @@
 		9E6FCFC81E29B180003F114F /* MaxLengthTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6FCFC71E29B180003F114F /* MaxLengthTextField.swift */; };
 		9E7CBA681E1BCA5B00AAD743 /* myCloudNotesLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E7CBA671E1BCA5B00AAD743 /* myCloudNotesLogo.png */; };
 		9E7CBA6C1E1BD90900AAD743 /* RegistrationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7CBA6B1E1BD90900AAD743 /* RegistrationPage.swift */; };
+		C9ED690ACA3BA2F7724EB7CE /* Pods_Cloud_NotesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68DD5262C9198822647B502A /* Pods_Cloud_NotesTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,9 +45,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0201F04171D29731FD0E0448 /* Pods_Cloud_Notes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cloud_Notes.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5975295F2C697F1A53429D99 /* Pods-MyCloudNotesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotesUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotesUITests/Pods-MyCloudNotesUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5ABC7C5E522241DAD60045B3 /* Pods_MyCloudNotesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCloudNotesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F5D21195549234C45175B29 /* Pods-Cloud NotesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud NotesUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud NotesUITests/Pods-Cloud NotesUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		68DD5262C9198822647B502A /* Pods_Cloud_NotesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cloud_NotesTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A35F1576BA5E3F9E7DBB044 /* Pods_Cloud_NotesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cloud_NotesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		767A393A25D041EFE1E0E54E /* Pods-Cloud NotesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud NotesUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud NotesUITests/Pods-Cloud NotesUITests.release.xcconfig"; sourceTree = "<group>"; };
 		786F4E6F8B6533A3CA9D506C /* Pods-MyCloudNotesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotesTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotesTests/Pods-MyCloudNotesTests.debug.xcconfig"; sourceTree = "<group>"; };
+		82342CF800E064479889B79A /* Pods-Cloud NotesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud NotesTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud NotesTests/Pods-Cloud NotesTests.debug.xcconfig"; sourceTree = "<group>"; };
+		835D4FADDA4AE6FB998CA2A9 /* Pods-Cloud Notes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud Notes.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud Notes/Pods-Cloud Notes.debug.xcconfig"; sourceTree = "<group>"; };
 		8777935376C5F521576F5B52 /* Pods-MyCloudNotesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotesTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotesTests/Pods-MyCloudNotesTests.release.xcconfig"; sourceTree = "<group>"; };
 		9A020F774D225B6818BB1449 /* Pods_MyCloudNotesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCloudNotesTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E09CB501E1BE497005E63DC /* LoginPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
@@ -66,9 +76,11 @@
 		9E7CBA671E1BCA5B00AAD743 /* myCloudNotesLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myCloudNotesLogo.png; sourceTree = "<group>"; };
 		9E7CBA6B1E1BD90900AAD743 /* RegistrationPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistrationPage.swift; sourceTree = "<group>"; };
 		A05F92EDDEDE4DC7BC23D003 /* Pods-MyCloudNotes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotes.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotes/Pods-MyCloudNotes.release.xcconfig"; sourceTree = "<group>"; };
+		ABE2053D219898CD723994C3 /* Pods-Cloud Notes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud Notes.release.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud Notes/Pods-Cloud Notes.release.xcconfig"; sourceTree = "<group>"; };
 		BB904D459C482B5B1F9AA015 /* Pods-MyCloudNotesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotesUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotesUITests/Pods-MyCloudNotesUITests.release.xcconfig"; sourceTree = "<group>"; };
 		C6F6DB475CFE771CDBEC6F06 /* Pods-MyCloudNotes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCloudNotes.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyCloudNotes/Pods-MyCloudNotes.debug.xcconfig"; sourceTree = "<group>"; };
 		D30052E7AF4736C698F2CF83 /* Pods_MyCloudNotes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCloudNotes.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F697B73CC9AF1331A5FBB46B /* Pods-Cloud NotesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cloud NotesTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Cloud NotesTests/Pods-Cloud NotesTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +89,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E7461BECF0EAAB4872D6B9C /* Pods_MyCloudNotes.framework in Frameworks */,
+				457D8DE7E84A6C2053F55AE1 /* Pods_Cloud_Notes.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +98,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3ED481082E36F5FD6D89B4A2 /* Pods_MyCloudNotesTests.framework in Frameworks */,
+				C9ED690ACA3BA2F7724EB7CE /* Pods_Cloud_NotesTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -93,6 +107,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				409F1572E0BEC9B5323A93E3 /* Pods_MyCloudNotesUITests.framework in Frameworks */,
+				99872607F308D7998EB1A87C /* Pods_Cloud_NotesUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,6 +120,9 @@
 				D30052E7AF4736C698F2CF83 /* Pods_MyCloudNotes.framework */,
 				9A020F774D225B6818BB1449 /* Pods_MyCloudNotesTests.framework */,
 				5ABC7C5E522241DAD60045B3 /* Pods_MyCloudNotesUITests.framework */,
+				0201F04171D29731FD0E0448 /* Pods_Cloud_Notes.framework */,
+				68DD5262C9198822647B502A /* Pods_Cloud_NotesTests.framework */,
+				6A35F1576BA5E3F9E7DBB044 /* Pods_Cloud_NotesUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -118,6 +136,12 @@
 				8777935376C5F521576F5B52 /* Pods-MyCloudNotesTests.release.xcconfig */,
 				5975295F2C697F1A53429D99 /* Pods-MyCloudNotesUITests.debug.xcconfig */,
 				BB904D459C482B5B1F9AA015 /* Pods-MyCloudNotesUITests.release.xcconfig */,
+				835D4FADDA4AE6FB998CA2A9 /* Pods-Cloud Notes.debug.xcconfig */,
+				ABE2053D219898CD723994C3 /* Pods-Cloud Notes.release.xcconfig */,
+				82342CF800E064479889B79A /* Pods-Cloud NotesTests.debug.xcconfig */,
+				F697B73CC9AF1331A5FBB46B /* Pods-Cloud NotesTests.release.xcconfig */,
+				5F5D21195549234C45175B29 /* Pods-Cloud NotesUITests.debug.xcconfig */,
+				767A393A25D041EFE1E0E54E /* Pods-Cloud NotesUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -351,7 +375,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotesUITests/Pods-MyCloudNotesUITests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud NotesUITests/Pods-Cloud NotesUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		4C505E376BEE995D880414E3 /* [CP] Embed Pods Frameworks */ = {
@@ -366,7 +390,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotes/Pods-MyCloudNotes-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud Notes/Pods-Cloud Notes-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7CDA76B8F6C7648041D5E793 /* [CP] Copy Pods Resources */ = {
@@ -381,7 +405,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotesUITests/Pods-MyCloudNotesUITests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud NotesUITests/Pods-Cloud NotesUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8A3FCFDACDF233763BAC6DB5 /* [CP] Copy Pods Resources */ = {
@@ -396,7 +420,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotes/Pods-MyCloudNotes-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud Notes/Pods-Cloud Notes-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9DDF05D3872EF24B45A10BD7 /* [CP] Embed Pods Frameworks */ = {
@@ -411,7 +435,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotesTests/Pods-MyCloudNotesTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud NotesTests/Pods-Cloud NotesTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AF7C3477ABC0C86B4D6DE575 /* [CP] Copy Pods Resources */ = {
@@ -426,7 +450,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyCloudNotesTests/Pods-MyCloudNotesTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Cloud NotesTests/Pods-Cloud NotesTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C056E302B8BC53A6E7C6CDFA /* [CP] Check Pods Manifest.lock */ = {
@@ -627,13 +651,14 @@
 		};
 		9E5D5F6A1E1AB8A70083B35D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C6F6DB475CFE771CDBEC6F06 /* Pods-MyCloudNotes.debug.xcconfig */;
+			baseConfigurationReference = 835D4FADDA4AE6FB998CA2A9 /* Pods-Cloud Notes.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = FHZ52V3KY9;
 				INFOPLIST_FILE = MyCloudNotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JZChang.MyCloudNotes;
+				PRODUCT_BUNDLE_IDENTIFIER = JZChang.CloudNotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -641,13 +666,14 @@
 		};
 		9E5D5F6B1E1AB8A70083B35D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A05F92EDDEDE4DC7BC23D003 /* Pods-MyCloudNotes.release.xcconfig */;
+			baseConfigurationReference = ABE2053D219898CD723994C3 /* Pods-Cloud Notes.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = FHZ52V3KY9;
 				INFOPLIST_FILE = MyCloudNotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JZChang.MyCloudNotes;
+				PRODUCT_BUNDLE_IDENTIFIER = JZChang.CloudNotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -655,7 +681,7 @@
 		};
 		9E5D5F6D1E1AB8A70083B35D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 786F4E6F8B6533A3CA9D506C /* Pods-MyCloudNotesTests.debug.xcconfig */;
+			baseConfigurationReference = 82342CF800E064479889B79A /* Pods-Cloud NotesTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -670,7 +696,7 @@
 		};
 		9E5D5F6E1E1AB8A70083B35D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8777935376C5F521576F5B52 /* Pods-MyCloudNotesTests.release.xcconfig */;
+			baseConfigurationReference = F697B73CC9AF1331A5FBB46B /* Pods-Cloud NotesTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -685,7 +711,7 @@
 		};
 		9E5D5F701E1AB8A70083B35D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5975295F2C697F1A53429D99 /* Pods-MyCloudNotesUITests.debug.xcconfig */;
+			baseConfigurationReference = 5F5D21195549234C45175B29 /* Pods-Cloud NotesUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = MyCloudNotesUITests/Info.plist;
@@ -699,7 +725,7 @@
 		};
 		9E5D5F711E1AB8A70083B35D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BB904D459C482B5B1F9AA015 /* Pods-MyCloudNotesUITests.release.xcconfig */;
+			baseConfigurationReference = 767A393A25D041EFE1E0E54E /* Pods-Cloud NotesUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = MyCloudNotesUITests/Info.plist;

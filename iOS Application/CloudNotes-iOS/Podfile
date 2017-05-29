@@ -1,20 +1,19 @@
 # Uncomment the next line to define a global platform for your project
-platform :ios, '10.1'
+# platform :ios, '9.0'
 
-target 'MyCloudNotes' do
+target 'Cloud Notes' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for MyCloudNotes
-  pod 'Parse'
+  # Pods for Cloud Notes
+  pod ‘Parse’
 
-
-  target 'MyCloudNotesTests' do
+  target 'Cloud NotesTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'MyCloudNotesUITests' do
+  target 'Cloud NotesUITests' do
     inherit! :search_paths
     # Pods for testing
   end

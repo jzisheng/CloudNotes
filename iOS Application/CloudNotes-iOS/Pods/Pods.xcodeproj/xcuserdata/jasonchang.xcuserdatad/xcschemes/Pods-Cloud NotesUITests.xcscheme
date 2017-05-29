@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "906956AB9ADC212E4EB8823F7F9E18D6"
-               BuildableName = "Pods_MyCloudNotesUITests.framework"
-               BlueprintName = "Pods-MyCloudNotesUITests"
+               BlueprintIdentifier = "2AAF3AF767EC61B4A99ABB60620D0900"
+               BuildableName = "Pods_Cloud_NotesUITests.framework"
+               BlueprintName = "Pods-Cloud NotesUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "906956AB9ADC212E4EB8823F7F9E18D6"
-            BuildableName = "Pods_MyCloudNotesUITests.framework"
-            BlueprintName = "Pods-MyCloudNotesUITests"
+            BlueprintIdentifier = "2AAF3AF767EC61B4A99ABB60620D0900"
+            BuildableName = "Pods_Cloud_NotesUITests.framework"
+            BlueprintName = "Pods-Cloud NotesUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

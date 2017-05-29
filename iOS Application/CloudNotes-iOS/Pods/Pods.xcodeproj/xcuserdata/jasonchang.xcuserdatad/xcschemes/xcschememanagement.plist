@@ -4,65 +4,50 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Bolts 2.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>5</integer>
-		</dict>
 		<key>Bolts.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<false/>
 		</dict>
 		<key>Parse.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<false/>
 		</dict>
-		<key>Pods-MyCloudNotes.xcscheme</key>
+		<key>Pods-Cloud Notes.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<false/>
 		</dict>
-		<key>Pods-MyCloudNotesTests.xcscheme</key>
+		<key>Pods-Cloud NotesTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<false/>
 		</dict>
-		<key>Pods-MyCloudNotesUITests.xcscheme</key>
+		<key>Pods-Cloud NotesUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>4</integer>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2AAF3AF767EC61B4A99ABB60620D0900</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3D443F608EDFED845FEEC3BFAA765F1E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>51CB0AF616C6306147B99C320EB6D3ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6E9B476F2EC3463AD844C35B7EA3C6C6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>87021CD48A1AB755963C600EAC0DA185</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>906956AB9ADC212E4EB8823F7F9E18D6</key>
+		<key>8C6F070B305E8DCC86E77C91A163AFB4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
